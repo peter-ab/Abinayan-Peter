@@ -1,5 +1,7 @@
 
 Begin login():
+# Username and password section must be empty.
+
 Set attempts: 5
 Set Username: "Terminatorfanboy"
 Set password: "Abinator17"
